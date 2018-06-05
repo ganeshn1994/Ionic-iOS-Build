@@ -2,6 +2,12 @@
   "name": "FriendList",
   "app_id": "",
   "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/",
+      "proxyUrl": "192.168.1.10/"
+    }
+  ],
   "integrations": {
     "cordova": {}
   }

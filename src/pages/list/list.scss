@@ -1,0 +1,31 @@
+page-list {
+
+    button.viewmsg.disable-hover.button.button-ios.button-default.button-default-ios {
+        margin-top: 10px;
+        width: 49%;
+        margin-left: 0px;
+        background: #630000;
+        position: fixed;
+    }
+    button.sendmsg.disable-hover.button.button-ios.button-default.button-default-ios {
+        margin-top: 10px;
+        width: 46%;
+        margin-right: 0%;
+        background: #630000;
+        // position: fixed;
+        float: right;
+    }
+    .item-ios {
+        padding-left: 16px;
+        padding-left: 16px;
+        border-radius: 0;
+        position: relative;
+        font-size: 1.7rem;
+        color: #000;
+        background-color: #fff;
+        border-bottom: 1px solid #630000 !important;
+        -webkit-transition: background-color 200ms linear;
+        transition: background-color 200ms linear;
+    }
+
+}

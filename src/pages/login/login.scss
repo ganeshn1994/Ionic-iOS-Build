@@ -1,0 +1,21 @@
+page-login {
+
+}
+.item-md {
+    color: #630000;
+}
+
+.button-inner {
+   background-color: #630000;
+}
+
+body {
+    background-color: lightgrey
+  }
+  ion-fab[center] {
+    padding-top: 200px;
+  }
+  button.disable-hover.button.button-ios.button-default.button-default-ios.button-round.button-round-ios span {
+    background: #630000;
+    border-radius: 21px;
+}
